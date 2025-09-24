@@ -1,0 +1,87 @@
+2025-09-23T11:01:04.109114+07:00,6621686691,Siva karthik,start_work,Checked in late by 01:01:04.,2025-09-23
+2025-09-23T11:01:53.947791+07:00,6621686691,Siva karthik,start_eat,Eat break #1,2025-09-23
+2025-09-23T11:02:59.862145+07:00,6621686691,Siva karthik,start_work,Checked in late by 01:02:59.,2025-09-23
+2025-09-23T11:03:04.738145+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T11:11:05.496117+07:00,6621686691,Siva karthik,start_work,Checked in late by 01:11:05.,2025-09-23
+2025-09-23T11:11:08.490282+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T11:17:30.753900+07:00,6621686691,Siva karthik,toilet_overtime,Exceeded by 00:01:22,2025-09-23
+2025-09-23T11:17:30.754900+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:06:22,2025-09-23
+2025-09-23T11:20:16.758958+07:00,6621686691,Siva karthik,start_eat,Eat break #1,2025-09-23
+2025-09-23T11:20:48.847816+07:00,6621686691,Siva karthik,end_break,Ended eat break. Duration: 00:00:32,2025-09-23
+2025-09-23T11:21:13.894169+07:00,6621686691,Siva karthik,start_rest,Rest break #1,2025-09-23
+2025-09-23T12:55:10.278494+07:00,6621686691,Siva karthik,rest_overtime,Exceeded by 01:13:56,2025-09-23
+2025-09-23T12:55:10.281525+07:00,6621686691,Siva karthik,end_break,Ended rest break. Duration: 01:33:56,2025-09-23
+2025-09-23T13:22:48.525470+07:00,6621686691,Siva karthik,start_work,Checked in late by 03:22:48.,2025-09-23
+2025-09-23T13:23:05.010267+07:00,6621686691,Siva karthik,start_rest,Rest break #1,2025-09-23
+2025-09-23T13:24:37.829892+07:00,6621686691,Siva karthik,end_break,Ended rest break. Duration: 00:01:32,2025-09-23
+2025-09-23T13:24:47.639747+07:00,6621686691,Siva karthik,start_rest,Rest break #2,2025-09-23
+2025-09-23T13:24:56.268597+07:00,6621686691,Siva karthik,end_break,Ended rest break. Duration: 00:00:08,2025-09-23
+2025-09-23T14:12:06.573111+07:00,6621686691,Siva karthik,start_eat,Eat break #1,2025-09-23
+2025-09-23T14:13:14.032347+07:00,6621686691,Siva karthik,end_break,Ended eat break. Duration: 00:01:07,2025-09-23
+2025-09-23T14:13:38.732439+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T14:13:45.940369+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:00:07,2025-09-23
+2025-09-23T14:13:49.701372+07:00,6621686691,Siva karthik,start_toilet,Toilet break #2,2025-09-23
+2025-09-23T14:20:17.215091+07:00,6621686691,Siva karthik,toilet_overtime,Exceeded by 00:01:27,2025-09-23
+2025-09-23T14:20:17.216097+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:06:27,2025-09-23
+2025-09-23T14:53:21.673559+07:00,6621686691,Siva karthik,start_toilet,Toilet break #3,2025-09-23
+2025-09-23T14:53:59.959581+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:00:38,2025-09-23
+2025-09-23T14:54:52.996927+07:00,6621686691,Siva karthik,start_toilet,Toilet break #4,2025-09-23
+2025-09-23T14:54:59.834356+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:00:06,2025-09-23
+2025-09-23T14:55:03.525803+07:00,6621686691,Siva karthik,start_toilet,Toilet break #5,2025-09-23
+2025-09-23T14:55:10.345085+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:00:06,2025-09-23
+2025-09-23T14:55:14.672638+07:00,6621686691,Siva karthik,start_toilet,Toilet break #6,2025-09-23
+2025-09-23T14:55:16.937906+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:00:02,2025-09-23
+2025-09-23T15:41:07.763256+07:00,6621686691,Siva karthik,off_work,"Total work: 02:18:19, Pure work: 02:08:01",2025-09-23
+2025-09-23T16:48:05.782648+07:00,1512424573,Dk,start_work,Checked in late by 06:48:05.,2025-09-23
+2025-09-23T17:00:03.225289+07:00,1512424573,Dk,start_work,Checked in late by 07:00:03.,2025-09-23
+2025-09-23T21:23:43.344640+07:00,6621686691,Siva karthik,start_work,Checked in late by 10:23:43.,2025-09-23
+2025-09-23T21:23:46.672823+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T21:34:38.355591+07:00,6621686691,Siva karthik,toilet_overtime,Exceeded by 00:00:51,2025-09-23
+2025-09-23T21:34:38.358633+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:10:51,2025-09-23
+2025-09-23T21:35:44.167247+07:00,6621686691,Siva karthik,off_work,"Total work: 00:12:00, Pure work: 00:01:09",2025-09-23
+2025-09-23T21:36:37.872807+07:00,6621686691,Siva karthik,start_work,Checked in late by 10:36:37.,2025-09-23
+2025-09-23T21:37:01.687986+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T21:39:29.478522+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:02:27,2025-09-23
+2025-09-23T21:42:23.708060+07:00,6621686691,Siva karthik,start_toilet,Toilet break #2,2025-09-23
+2025-09-23T21:44:33.027125+07:00,6621686691,Siva karthik,start_work,Checked in late by 10:44:33.,2025-09-23
+2025-09-23T21:44:57.907776+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T21:58:35.878665+07:00,6621686691,Siva karthik,toilet_overtime,Exceeded by 00:03:37,2025-09-23
+2025-09-23T21:58:35.879570+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:13:37,2025-09-23
+2025-09-23T22:00:35.225605+07:00,6621686691,Siva karthik,off_work,"Total work: 00:16:02, Pure work: 00:02:24",2025-09-23
+2025-09-23T22:00:42.612415+07:00,6621686691,Siva karthik,start_work,Checked in late by 11:00:42.,2025-09-23
+2025-09-23T22:00:46.053129+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T22:13:12.511649+07:00,6621686691,Siva karthik,toilet_overtime,Exceeded by 00:02:26,2025-09-23
+2025-09-23T22:13:12.511649+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:12:26,2025-09-23
+2025-09-23T22:13:17.976910+07:00,6621686691,Siva karthik,start_toilet,Toilet break #2,2025-09-23
+2025-09-23T22:26:20.612279+07:00,6621686691,Siva karthik,toilet_overtime,Exceeded by 00:03:02,2025-09-23
+2025-09-23T22:26:20.613286+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:13:02,2025-09-23
+2025-09-23T22:30:32.110234+07:00,6621686691,Siva karthik,start_work,Checked in late by 11:30:32.,2025-09-23
+2025-09-23T22:30:35.416147+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T22:42:09.975612+07:00,6621686691,Siva karthik,toilet_overtime,Exceeded by 00:01:34,2025-09-23
+2025-09-23T22:42:09.976617+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:11:34,2025-09-23
+2025-09-23T22:50:11.915207+07:00,6621686691,Siva karthik,start_work,Checked in late by 11:50:11.,2025-09-23
+2025-09-23T22:50:14.978319+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T23:00:23.755415+07:00,6621686691,Siva karthik,toilet_overtime,Exceeded by 00:00:08,2025-09-23
+2025-09-23T23:00:23.755415+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:10:08,2025-09-23
+2025-09-23T23:00:34.965463+07:00,6621686691,Siva karthik,start_toilet,Toilet break #2,2025-09-23
+2025-09-23T23:14:07.251292+07:00,6621686691,Siva karthik,toilet_overtime,Exceeded by 00:03:32,2025-09-23
+2025-09-23T23:14:07.251292+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:13:32,2025-09-23
+2025-09-23T23:14:17.867459+07:00,6621686691,Siva karthik,off_work,"Total work: 00:24:05, Pure work: 00:00:24",2025-09-23
+2025-09-23T23:16:27.821663+07:00,6621686691,Siva karthik,start_work,Checked in late by 12:16:27.,2025-09-23
+2025-09-23T23:16:32.809089+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-23T23:26:20.581444+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:09:47,2025-09-23
+2025-09-23T23:26:34.913291+07:00,6621686691,Siva karthik,start_toilet,Toilet break #2,2025-09-23
+2025-09-24T00:17:33.426374+07:00,6621686691,Siva karthik,start_work,Checked in on time.,2025-09-23
+2025-09-24T00:17:39.358017+07:00,6621686691,Siva karthik,off_work,"Total work: 00:00:05, Pure work: 00:00:05",2025-09-23
+2025-09-24T01:15:49.571009+07:00,6621686691,Siva karthik,start_work,Checked in on time.,2025-09-23
+2025-09-24T01:15:51.006123+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-23
+2025-09-24T01:15:55.594865+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:00:04,2025-09-23
+2025-09-24T01:16:01.427253+07:00,6621686691,Siva karthik,off_work,"Total work: 00:00:11, Pure work: 00:00:07",2025-09-23
+2025-09-24T12:36:08.027108+07:00,6621686691,Siva karthik,start_work,Checked in late by 01:36:08.,2025-09-24
+2025-09-24T12:36:09.752021+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-24
+2025-09-24T12:36:12.579818+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:00:02,2025-09-24
+2025-09-24T12:36:18.410603+07:00,6621686691,Siva karthik,off_work,"Total work: 00:00:10, Pure work: 00:00:07",2025-09-24
+2025-09-24T17:25:30.597332+07:00,6621686691,Siva karthik,start_work,Checked in late by 06:25:30.,2025-09-24
+2025-09-24T17:25:34.236465+07:00,6621686691,Siva karthik,start_toilet,Toilet break #1,2025-09-24
+2025-09-24T17:26:17.157030+07:00,6621686691,Siva karthik,end_break,Ended toilet break. Duration: 00:00:42,2025-09-24
+2025-09-24T17:26:23.781646+07:00,6621686691,Siva karthik,off_work,"Total work: 00:00:53, Pure work: 00:00:10",2025-09-24
